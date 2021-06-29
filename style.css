@@ -413,11 +413,29 @@ img {
   
   
   
-  
+  /* ==============={ list items MQ }================ */
+
+.listItems {
+  /* margin: 13% auto 0 auto; */
+  /* background-color: red; */
+}
+
+
+
+
+  /* ==============={ news feed MQ }================ */
+
+.newsFeed {
+  margin: 0 auto;
+  /* background-color: red; */
+}
+
+
+
   /* ==============={ contact MQ }================ */
 
   .contactRow {
-      margin: 7%;
+      margin: 10% 7%;
   }
 
 
@@ -442,7 +460,7 @@ img {
     text-decoration: none;
   }
   .copyright {
-    font-size: 2vw;
+    font-size: 2.5vw;
     margin: 5% auto 15% auto;
     color: orange;
   }
