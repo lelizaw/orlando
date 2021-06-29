@@ -416,7 +416,8 @@ img {
   /* ==============={ list items MQ }================ */
 
 .listItems {
-  /* margin: 13% auto 0 auto; */
+  margin: 20% auto 0 auto;
+  /* padding: 0 2%; */
   /* background-color: red; */
 }
 
@@ -435,7 +436,7 @@ img {
   /* ==============={ contact MQ }================ */
 
   .contactRow {
-      margin: 10% 7%;
+      margin: 7%;
   }
 
 
