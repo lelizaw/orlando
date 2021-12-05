@@ -288,7 +288,15 @@ img {
   
 }
 
+.textDescriptionHarm {
+  text-align: center;
+  margin: 10% auto 3% auto;
+  color: paleturquoise;
+}
 
+.harmTitles {
+  font-weight: bold;
+}
 
 
   /* ============================={ End of Index Page }================================ */
@@ -482,6 +490,12 @@ img {
 /* .preFooter {
   margin: 0;
 } */
+
+.textDescriptionHarm {
+  text-align: center;
+  margin: 3% auto;
+  color: paleturquoise;
+}
 
 
   /* ==============={ footer MQ }================ */
